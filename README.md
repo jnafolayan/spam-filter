@@ -9,6 +9,6 @@ Bayes spam filtering using Python
 python3 index.py
 ```
 
-### Credits
--[SMS Spam Collection](https://www.kaggle.com/uciml/sms-spam-collection-dataset)
--[Stop words](https://www.kaggle.com/guptakhil12/stopwords)
+### Resources
+- [SMS Spam Collection](https://www.kaggle.com/uciml/sms-spam-collection-dataset)
+- [Stop words](https://www.kaggle.com/guptakhil12/stopwords)
